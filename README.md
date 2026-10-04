@@ -7,6 +7,8 @@ Service desks receive thousands of tickets daily. Manual sorting is slow and err
 
 ## Dataset
 IT Service Ticket Classification Dataset (Kaggle), 8 categories. The text was already preprocessed (lowercased, stopwords removed, lemmatized).
+![Uploading image.png…]()
+
 
 | Item | Value |
 |:--|--:|
