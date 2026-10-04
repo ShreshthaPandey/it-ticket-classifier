@@ -7,7 +7,7 @@ Service desks receive thousands of tickets daily. Manual sorting is slow and err
 
 ## Dataset
 IT Service Ticket Classification Dataset (Kaggle), 8 categories. The text was already preprocessed (lowercased, stopwords removed, lemmatized).
-![Uploading image.png…]()
+
 
 
 | Item | Value |
@@ -94,7 +94,8 @@ Top misclassifications on the test set:
 Linear SVM inference (excluding TF-IDF vectorization): 9,565 tickets in 0.021 sec. Saved model files are small (model 1.28 MB, TF-IDF 0.82 MB).
 
 ## Demo
-![App](app_screenshot.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce87639d-a6c0-4155-8f75-641a20b8783e" />
+
 
 ## How to run
 ```
